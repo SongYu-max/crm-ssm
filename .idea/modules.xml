@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/crm.iml" filepath="$PROJECT_DIR$/crm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/-crm-ssm.iml" filepath="$PROJECT_DIR$/-crm-ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../it资料/springmvc/ch07-ssm/ch07-ssm.iml" filepath="$PROJECT_DIR$/../../../it资料/springmvc/ch07-ssm/ch07-ssm.iml" />
     </modules>
   </component>
 </project>

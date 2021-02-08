@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="crm" />
+        <module name="-crm-ssm" />
+        <module name="ch07-ssm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="-crm-ssm" target="1.8" />
+      <module name="ch07-ssm" target="1.8" />
       <module name="crm" target="15" />
     </bytecodeTargetLevel>
   </component>

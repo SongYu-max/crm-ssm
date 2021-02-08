@@ -8,7 +8,6 @@ import com.bjpowernode.crm.utils.ServiceFactory;
 import javax.servlet.ServletContext;
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
-import java.awt.desktop.SystemEventListener;
 import java.util.*;
 
 public class SysInitListener implements ServletContextListener {
